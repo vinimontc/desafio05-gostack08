@@ -5,7 +5,7 @@ Aplicaço de uma única página desenvolvida com ReactJS utilizando a API do Git
 ### Funcionalidades:
 
 Aplicação com função básica de busca de repositórios no GitHub para salva-los na página inicial e apresentar para os usuários todas as informações desses repositórios, assim como as Issues do mesmo. 
-Esta SPA possui mecanismos para garantir a autenticidade dos dados digitados e evitar dulicidade.
+Esta SPA possui mecanismos para garantir a autenticidade dos dados digitados e evitar duplicidade.
 
 ### Observação:
 
